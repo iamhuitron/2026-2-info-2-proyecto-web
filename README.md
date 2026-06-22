@@ -1,1 +1,1 @@
-Interactive educational website exploring Artificial Intelligence, machine learning, applications, and emerging technologies.
+Informatics II project: Web system architecture integrating modular SCSS, JavaScript logic, and semantic HTML
